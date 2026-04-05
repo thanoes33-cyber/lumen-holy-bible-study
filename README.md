@@ -1,11 +1,22 @@
-<div align="center">
+# Lumen: Holy Bible Study
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A spiritual companion app offering AI-powered Bible study, daily verses, and prayer guidance.
 
-  <h1>Built with AI Studio</h2>
+## Features
+*   **AI Bible Chat:** Ask questions, seek guidance, and explore scripture with an AI assistant.
+*   **Daily Verses:** Get daily inspiration from the Bible.
+*   **Prayer Wall:** Keep track of your prayers and requests.
+*   **Bible Illustrator:** Generate beautiful images based on Bible verses.
+*   **Accessibility:** High contrast mode, text size adjustments, and reduced motion settings.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Development
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+This project is built with React, Vite, and Tailwind CSS.
 
-</div>
+To run locally:
+1. \`npm install\`
+2. \`npm run dev\`
+
+## Deployment
+
+This project is configured to automatically deploy to GitHub Pages using GitHub Actions.
